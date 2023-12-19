@@ -35,7 +35,3 @@ cd Implementation
 python3 main.py
 ```
 
-## This project was made by
-- Vinod Meena (20CS10074)
-- Nirbhay Kumar (20CS10040)
-- Sonu Kumar Yadav(20CS10061)
